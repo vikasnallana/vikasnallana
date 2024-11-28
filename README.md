@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VIKAS NALLANA</h1>
-<h3 align="center">A passionate MERNSTACK developer</h3>
+<h3 align="center">A passionate FULLSTACK developer</h3>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **FULL STACK**
 
 - 💬 Ask me about **Python,Development,**
 
