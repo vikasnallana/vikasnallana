@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VIKAS NALLANA</h1>
 <h3 align="center">A passionate FULLSTACK developer</h3>
-
+<h2 align="center"><a href="https://vikasnallana.netlify.app/">My Portfolio</a></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasnallana&label=Profile%20views&color=0e75b6&style=flat" alt="vikasnallana" /> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
@@ -10,6 +10,8 @@
 - 📫 How to reach me **vikasnallana@gmail.com**
 
 - ⚡ I love to build **Stuff**
+
+- 📃 Have a look on my <a ahref="https://drive.google.com/file/d/1qobycGwipij_L2ypnER4apoO1f9Ls7Kn/view?usp=drive_link">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
